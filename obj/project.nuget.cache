@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dt+lGw/xq2Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\osama\\HelloDotnet2\\HelloDotnet2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osama\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\osama\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
